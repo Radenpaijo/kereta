@@ -1,0 +1,23 @@
+[
+  {
+    "nik": "8888",
+    "nama": "Said Rohim",
+    "telp": "8888",
+    "username": "said",
+    "password": "said"
+  },
+  {
+    "nik": "7777",
+    "nama": "Aditya Minantoko",
+    "telp": "6666",
+    "username": "adit",
+    "password": "adit"
+  },
+  {
+    "nik": "22222",
+    "nama": "agustin",
+    "telp": "202020",
+    "username": "agus",
+    "password": "agus"
+  }
+]

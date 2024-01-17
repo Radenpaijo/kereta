@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "Argo Bromo",
+    "duduk": 30,
+    "jumlahGerbong": 2,
+    "kapasitas": 60
+  },
+  {
+    "nama": "Semeru",
+    "duduk": 30,
+    "jumlahGerbong": 4,
+    "kapasitas": 120
+  },
+  {
+    "nama": "Merapi",
+    "duduk": 30,
+    "jumlahGerbong": 10,
+    "kapasitas": 300
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "kotaAwal": "Malang",
+    "kotaTujuan": "Jakarta",
+    "jam": "12.11",
+    "kodeJadwal": 1,
+    "kereta": {
+      "nama": "Argo Bromo",
+      "duduk": 30,
+      "jumlahGerbong": 2,
+      "kapasitas": 60
+    },
+    "harga": 360000
+  },
+  {
+    "kotaAwal": "Malang",
+    "kotaTujuan": "Jakarta",
+    "jam": "11.00",
+    "kodeJadwal": 2,
+    "kereta": {
+      "nama": "Semeru",
+      "duduk": 30,
+      "jumlahGerbong": 4,
+      "kapasitas": 120
+    },
+    "harga": 300000
+  },
+  {
+    "kotaAwal": "Surabaya",
+    "kotaTujuan": "Malang",
+    "jam": "13.10",
+    "kodeJadwal": 2,
+    "kereta": {
+      "nama": "Argo Bromo",
+      "duduk": 30,
+      "jumlahGerbong": 2,
+      "kapasitas": 60
+    },
+    "harga": 130000
+  },
+  {
+    "kotaAwal": "Jakarta",
+    "kotaTujuan": "Surabaya",
+    "jam": "12.00",
+    "kodeJadwal": 0,
+    "kereta": {
+      "nama": "Argo Bromo",
+      "duduk": 30,
+      "jumlahGerbong": 2,
+      "kapasitas": 60
+    },
+    "harga": 200000
+  },
+  {
+    "kotaAwal": "Lamongan",
+    "kotaTujuan": "Cepu",
+    "jam": "03.45",
+    "kodeJadwal": 0,
+    "kereta": {
+      "nama": "Merapi",
+      "duduk": 30,
+      "jumlahGerbong": 10,
+      "kapasitas": 300
+    },
+    "harga": 70000
+  }
+]

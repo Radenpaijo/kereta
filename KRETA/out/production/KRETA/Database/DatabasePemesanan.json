@@ -1,0 +1,26 @@
+[
+  {
+    "user": {
+      "nik": "7777",
+      "nama": "Aditya Minantoko",
+      "telp": "6666",
+      "username": "adit",
+      "password": "adit"
+    },
+    "jadwal": {
+      "kotaAwal": "Surabaya",
+      "kotaTujuan": "Malang",
+      "jam": "13.10",
+      "kodeJadwal": 2,
+      "kereta": {
+        "nama": "Argo Bromo",
+        "duduk": 30,
+        "jumlahGerbong": 2,
+        "kapasitas": 60
+      },
+      "harga": 130000
+    },
+    "jumlah": 2,
+    "total": 260000
+  }
+]
